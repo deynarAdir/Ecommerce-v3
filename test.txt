@@ -8,3 +8,5 @@ finalizado
 
 Finalizado en rama master
 Rama Desarrollo edito esto
+
+Finalizado desde rama Desarrollo
