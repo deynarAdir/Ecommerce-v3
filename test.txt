@@ -5,3 +5,5 @@ Line ade remotos
 02 prueba desde CLONE--remoto CLONE
 
 finalizado
+
+Finalizado en rama master
